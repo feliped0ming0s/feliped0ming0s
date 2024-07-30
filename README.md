@@ -1,4 +1,6 @@
-## Hi there 👋
+## **to vom fome de jupiter** 👋
+meu nome é **felipe**
+e estou estudando alura
 
 <!--
 **feliped0ming0s/feliped0ming0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
